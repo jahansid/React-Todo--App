@@ -1,8 +1,12 @@
-# React + Vite
+# Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This webapp gives an option to add todos and rearrange its position upwards and downwards.
 
-Currently, two official plugins are available:
+Currently, these are the steps, that has been implemented:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Create a components folder in src folder and add all Example.jsx elements under this folder.
+- Create a TodoApp.jsx 
+
+- Features:
+    An input with "add" button creates a new todo.
+    
